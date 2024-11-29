@@ -1,7 +1,5 @@
-# For CPE001L Final Product
-## Members:
-Vizconde, Rafael Jose G.
+# PC Building Application with GUI
 
-Perias, Anthony
+## Forked from a MMCM CPE001L Project
+[Original repository.](https://github.com/nutuxedo/PCBuilding_Group6CPE001L)
 
-Braga, Rovic Jay
